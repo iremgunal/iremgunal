@@ -1,5 +1,5 @@
 # 💫 Hi , I'm İrem
-:zap:I am open to learning and I follow new technologies closely.<br>📈 I experienced in HTML, CSS, JavaScript, C# and SQL <br>:computer:I’m currently learning ReactJS..<br>:full_moon: Although I have added a lot to myself since I started software, there is still a lot to learn and I am very excited to research,  learn and apply these topics.<br> :envelope: You can contact me at iremgunal5@gmail.com
+:zap:I am open to learning and I follow new technologies closely.<br>📈 I experienced in HTML, CSS, JavaScript, C# and SQL <br>:computer:I’m currently learning ReactJS<br>:full_moon: Although I have added a lot to myself since I started software, there is still a lot to learn and I am very excited to research,  learn and apply these topics.<br> :envelope: You can contact me at iremgunal5@gmail.com
 
 
 
