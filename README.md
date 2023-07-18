@@ -17,6 +17,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="NEXTJS" alt="NEXTJA" width="40" height="40"/>&nbsp;
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ## 🌐 Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irem-gunal)
